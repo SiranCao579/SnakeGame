@@ -1,5 +1,5 @@
 # SnakeGame
-- Used Java GUI and object oriented design
-- Dynamically increasing snake size & speed
-- Randomly re-generate apple location
-- Able to stop/resume when space pressed
+- Used Java Swing GUI and object oriented design
+- Dynamically increase snake size & speed
+- Randomly re-generate the apple location
+- Able to stop/resume with keyboard control
